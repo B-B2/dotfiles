@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = brane.bencic@gmail.com
+	name = Brane Bencic
